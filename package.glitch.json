@@ -1,0 +1,15 @@
+{
+  "name": "adp-mtls-proxy",
+  "version": "1.0.0",
+  "description": "ADP mTLS proxy server",
+  "main": "glitch-server.js",
+  "scripts": {
+    "start": "node glitch-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
